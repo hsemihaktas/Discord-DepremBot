@@ -10,6 +10,7 @@ const token = '"DISCORD BOT TOKEN"';
 const clientId = 'DISCORD BOT CLIENT ID';
 const channelId = ['CHANNEL ID'];
 
+
 const client = new Client({
   intents: [
     IntentsBitField.Flags.Guilds,
